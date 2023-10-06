@@ -1,12 +1,12 @@
-def fibonaqi(n):
-    if n == 0:
-        return 0
-    elif n == 1:
-        return 1
-    else:
-        return fibonaqi(n-1) + fibonaqi(n-2)
-n = int(input("enter a no. :"))
-print(fibonaqi(n))
+# def fibonaqi(n):
+#     if n == 0:
+#         return 0
+#     elif n == 1:
+#         return 1
+#     else:
+#         return fibonaqi(n-1) + fibonaqi(n-2)
+# n = int(input("enter a no. :"))
+# print(fibonaqi(n))
 n = int(input("enter a no. :"))
 num1 = 0
 num2 = 1
