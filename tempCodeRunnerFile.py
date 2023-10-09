@@ -1,2 +1,1 @@
-except IOError:
-		print("Error: could not create file " + filename)
+num = int(input("Enter a number: "))
