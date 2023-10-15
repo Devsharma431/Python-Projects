@@ -1,3 +1,5 @@
 cat for view the text files in linux 
 pwd is to view the path of directory  
 echo is to print something in file or terminal if we have to print something in we use double greater than sign like this >> to <file name >
+sudo is allows you to run programs with the security privileges of another user
+apt stands for Advamced Packaging Tool is package manger for linux using it we can download 
