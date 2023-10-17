@@ -1,2 +1,0 @@
-This is the write commandIt allows us to write in a particular fileTHis is a new text by dev sharma end = '
-'
