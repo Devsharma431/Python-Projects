@@ -80,3 +80,7 @@ with mp_hands.Hands(
     if cv2.waitKey(5) & 0xFF == 27:
       break
 cap.release()
+for i in range(8):
+    for j in range(i +1):
+        print( j , end=" ")
+    print()
